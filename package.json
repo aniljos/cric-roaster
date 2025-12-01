@@ -1,0 +1,19 @@
+{
+  "name": "cric-roster-apis",
+  "version": "1.0.0",
+  "description": "Cricket roster Express API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["cricket", "roster", "express", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

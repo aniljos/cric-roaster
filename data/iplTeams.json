@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Chennai Super Kings",
+    "shortName": "CSK",
+    "city": "Chennai",
+    "logo": "/logos/CSK.svg",
+    "captain": "Ruturaj Gaikwad",
+    "championshipsWon": 5,
+    "owner": "Chennai Super Kings Cricket Ltd.",
+    "totalNoOfIndianPlayers": 17,
+    "totalNoOfForeignPlayers": 8
+  },
+  {
+    "name": "Mumbai Indians",
+    "shortName": "MI",
+    "city": "Mumbai",
+    "logo": "/logos/MI.svg",
+    "captain": "Hardik Pandya",
+    "championshipsWon": 5,
+    "owner": "Reliance Industries Limited",
+    "totalNoOfIndianPlayers": 16,
+    "totalNoOfForeignPlayers": 8
+  },
+  {
+    "name": "Kolkata Knight Riders",
+    "shortName": "KKR",
+    "city": "Kolkata",
+    "logo": "/logos/KKR.svg",
+    "captain": "Shreyas Iyer",
+    "championshipsWon": 3,
+    "owner": "Knight Riders Sports Private Ltd.",
+    "totalNoOfIndianPlayers": 16,
+    "totalNoOfForeignPlayers": 8
+  },
+  {
+    "name": "Royal Challengers Bengaluru",
+    "shortName": "RCB",
+    "city": "Bengaluru",
+    "logo": "/logos/RCB.svg",
+    "captain": "Faf du Plessis",
+    "championshipsWon": 0,
+    "owner": "United Spirits Limited",
+    "totalNoOfIndianPlayers": 17,
+    "totalNoOfForeignPlayers": 7
+  },
+  {
+    "name": "Rajasthan Royals",
+    "shortName": "RR",
+    "city": "Jaipur",
+    "logo": "/logos/RR.svg",
+    "captain": "Sanju Samson",
+    "championshipsWon": 1,
+    "owner": "Royals Sports Group",
+    "totalNoOfIndianPlayers": 17,
+    "totalNoOfForeignPlayers": 7
+  },
+  {
+    "name": "Sunrisers Hyderabad",
+    "shortName": "SRH",
+    "city": "Hyderabad",
+    "logo": "/logos/SRH.svg",
+    "captain": "Pat Cummins",
+    "championshipsWon": 1,
+    "owner": "Sun TV Network",
+    "totalNoOfIndianPlayers": 16,
+    "totalNoOfForeignPlayers": 8
+  },
+  {
+    "name": "Delhi Capitals",
+    "shortName": "DC",
+    "city": "New Delhi",
+    "logo": "/logos/DC.svg",
+    "captain": "Rishabh Pant",
+    "championshipsWon": 0,
+    "owner": "GMR Group & JSW Sports",
+    "totalNoOfIndianPlayers": 17,
+    "totalNoOfForeignPlayers": 7
+  },
+  {
+    "name": "Lucknow Super Giants",
+    "shortName": "LSG",
+    "city": "Lucknow",
+    "logo": "/logos/LSG.svg",
+    "captain": "KL Rahul",
+    "championshipsWon": 0,
+    "owner": "RPSG Group",
+    "totalNoOfIndianPlayers": 17,
+    "totalNoOfForeignPlayers": 7
+  },
+  {
+    "name": "Gujarat Titans",
+    "shortName": "GT",
+    "city": "Ahmedabad",
+    "logo": "/logos/GT.svg",
+    "captain": "Shubman Gill",
+    "championshipsWon": 1,
+    "owner": "CVC Capital Partners",
+    "totalNoOfIndianPlayers": 17,
+    "totalNoOfForeignPlayers": 7
+  },
+  {
+    "name": "Punjab Kings",
+    "shortName": "PBKS",
+    "city": "Mohali",
+    "logo": "/logos/PBKS.svg",
+    "captain": "Shikhar Dhawan",
+    "championshipsWon": 0,
+    "owner": "KPH Dream Cricket Private Limited",
+    "totalNoOfIndianPlayers": 16,
+    "totalNoOfForeignPlayers": 8
+  }
+]

@@ -1,0 +1,4 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'>
+  <rect width='200' height='200' rx='20' fill='#de1f2a' />
+  <text x='100' y='115' font-family='Arial, Helvetica, sans-serif' font-weight='bold' font-size='56' fill='#ffffff' text-anchor='middle'>SD</text>
+</svg>
