@@ -1,7 +1,7 @@
 [
   {
     "playerName": "Ruturaj Gaikwad",
-    "image": "/players/ruturaj-gaikwad.svg",
+    "image": "/players/ruturaj-gaikwad.png",
     "role": "batter",
     "teamName": "Chennai Super Kings",
     "countryName": "India",
@@ -14,7 +14,7 @@
   },
   {
     "playerName": "Ravindra Jadeja",
-    "image": "/players/ravindra-jadeja.svg",
+    "image": "/players/ravindra-jadeja.png",
     "role": "allrounder",
     "teamName": "Chennai Super Kings",
     "countryName": "India",
@@ -27,7 +27,7 @@
   },
   {
     "playerName": "Matheesha Pathirana",
-    "image": "/players/matheesha-pathirana.svg",
+    "image": "/players/matheesha-pathirana.png",
     "role": "bowler",
     "teamName": "Chennai Super Kings",
     "countryName": "Sri Lanka",
@@ -40,7 +40,7 @@
   },
   {
     "playerName": "Rohit Sharma",
-    "image": "/players/rohit-sharma.svg",
+    "image": "/players/rohit-sharma.png",
     "role": "batter",
     "teamName": "Mumbai Indians",
     "countryName": "India",
@@ -53,7 +53,7 @@
   },
   {
     "playerName": "Hardik Pandya",
-    "image": "/players/hardik-pandya.svg",
+    "image": "/players/hardik-pandya.png",
     "role": "allrounder",
     "teamName": "Mumbai Indians",
     "countryName": "India",
@@ -66,7 +66,7 @@
   },
   {
     "playerName": "Jasprit Bumrah",
-    "image": "/players/jasprit-bumrah.svg",
+    "image": "/players/jasprit-bumrah.png",
     "role": "bowler",
     "teamName": "Mumbai Indians",
     "countryName": "India",
@@ -79,7 +79,7 @@
   },
   {
     "playerName": "Shreyas Iyer",
-    "image": "/players/shreyas-iyer.svg",
+    "image": "/players/shreyas-iyer.png",
     "role": "batter",
     "teamName": "Kolkata Knight Riders",
     "countryName": "India",
@@ -92,7 +92,7 @@
   },
   {
     "playerName": "Sunil Narine",
-    "image": "/players/sunil-narine.svg",
+    "image": "/players/sunil-narine.png",
     "role": "allrounder",
     "teamName": "Kolkata Knight Riders",
     "countryName": "West Indies",
@@ -105,7 +105,7 @@
   },
   {
     "playerName": "Varun Chakravarthy",
-    "image": "/players/varun-chakravarthy.svg",
+    "image": "/players/varun-chakravarthy.png",
     "role": "bowler",
     "teamName": "Kolkata Knight Riders",
     "countryName": "India",
@@ -118,7 +118,7 @@
   },
   {
     "playerName": "Virat Kohli",
-    "image": "/players/virat-kohli.svg",
+    "image": "/players/virat-kohli.png",
     "role": "batter",
     "teamName": "Royal Challengers Bengaluru",
     "countryName": "India",
@@ -131,7 +131,7 @@
   },
   {
     "playerName": "Faf du Plessis",
-    "image": "/players/faf-du-plessis.svg",
+    "image": "/players/faf-du-plessis.png",
     "role": "batter",
     "teamName": "Royal Challengers Bengaluru",
     "countryName": "South Africa",
@@ -144,7 +144,7 @@
   },
   {
     "playerName": "Mohammed Siraj",
-    "image": "/players/mohammed-siraj.svg",
+    "image": "/players/mohammed-siraj.png",
     "role": "bowler",
     "teamName": "Royal Challengers Bengaluru",
     "countryName": "India",
@@ -157,7 +157,7 @@
   },
   {
     "playerName": "Sanju Samson",
-    "image": "/players/sanju-samson.svg",
+    "image": "/players/sanju-samson.png",
     "role": "wicketkeepr",
     "teamName": "Rajasthan Royals",
     "countryName": "India",
@@ -170,7 +170,7 @@
   },
   {
     "playerName": "Yashasvi Jaiswal",
-    "image": "/players/yashasvi-jaiswal.svg",
+    "image": "/players/yashasvi-jaiswal.png",
     "role": "batter",
     "teamName": "Rajasthan Royals",
     "countryName": "India",
@@ -183,7 +183,7 @@
   },
   {
     "playerName": "Trent Boult",
-    "image": "/players/trent-boult.svg",
+    "image": "/players/trent-boult.png",
     "role": "bowler",
     "teamName": "Rajasthan Royals",
     "countryName": "New Zealand",
@@ -196,7 +196,7 @@
   },
   {
     "playerName": "Pat Cummins",
-    "image": "/players/pat-cummins.svg",
+    "image": "/players/pat-cummins.png",
     "role": "allrounder",
     "teamName": "Sunrisers Hyderabad",
     "countryName": "Australia",
@@ -209,7 +209,7 @@
   },
   {
     "playerName": "Heinrich Klaasen",
-    "image": "/players/heinrich-klaasen.svg",
+    "image": "/players/heinrich-klaasen.png",
     "role": "wicketkeepr",
     "teamName": "Sunrisers Hyderabad",
     "countryName": "South Africa",
@@ -222,7 +222,7 @@
   },
   {
     "playerName": "Abhishek Sharma",
-    "image": "/players/abhishek-sharma.svg",
+    "image": "/players/abhishek-sharma.png",
     "role": "batter",
     "teamName": "Sunrisers Hyderabad",
     "countryName": "India",
@@ -235,7 +235,7 @@
   },
   {
     "playerName": "Rishabh Pant",
-    "image": "/players/rishabh-pant.svg",
+    "image": "/players/rishabh-pant.png",
     "role": "wicketkeepr",
     "teamName": "Delhi Capitals",
     "countryName": "India",
@@ -248,7 +248,7 @@
   },
   {
     "playerName": "David Warner",
-    "image": "/players/david-warner.svg",
+    "image": "/players/david-warner.png",
     "role": "batter",
     "teamName": "Delhi Capitals",
     "countryName": "Australia",
@@ -261,7 +261,7 @@
   },
   {
     "playerName": "Axar Patel",
-    "image": "/players/axar-patel.svg",
+    "image": "/players/axar-patel.png",
     "role": "allrounder",
     "teamName": "Delhi Capitals",
     "countryName": "India",
@@ -274,7 +274,7 @@
   },
   {
     "playerName": "KL Rahul",
-    "image": "/players/kl-rahul.svg",
+    "image": "/players/kl-rahul.png",
     "role": "batter",
     "teamName": "Lucknow Super Giants",
     "countryName": "India",
@@ -287,7 +287,7 @@
   },
   {
     "playerName": "Nicholas Pooran",
-    "image": "/players/nicholas-pooran.svg",
+    "image": "/players/nicholas-pooran.png",
     "role": "wicketkeepr",
     "teamName": "Lucknow Super Giants",
     "countryName": "West Indies",
@@ -300,7 +300,7 @@
   },
   {
     "playerName": "Ravi Bishnoi",
-    "image": "/players/ravi-bishnoi.svg",
+    "image": "/players/ravi-bishnoi.png",
     "role": "bowler",
     "teamName": "Lucknow Super Giants",
     "countryName": "India",
@@ -313,7 +313,7 @@
   },
   {
     "playerName": "Shubman Gill",
-    "image": "/players/shubman-gill.svg",
+    "image": "/players/shubman-gill.png",
     "role": "batter",
     "teamName": "Gujarat Titans",
     "countryName": "India",
@@ -326,7 +326,7 @@
   },
   {
     "playerName": "Rashid Khan",
-    "image": "/players/rashid-khan.svg",
+    "image": "/players/rashid-khan.png",
     "role": "allrounder",
     "teamName": "Gujarat Titans",
     "countryName": "Afghanistan",
@@ -339,7 +339,7 @@
   },
   {
     "playerName": "Sai Sudharsan",
-    "image": "/players/sai-sudharsan.svg",
+    "image": "/players/sai-sudharsan.png",
     "role": "batter",
     "teamName": "Gujarat Titans",
     "countryName": "India",
@@ -352,7 +352,7 @@
   },
   {
     "playerName": "Shikhar Dhawan",
-    "image": "/players/shikhar-dhawan.svg",
+    "image": "/players/shikhar-dhawan.png",
     "role": "batter",
     "teamName": "Punjab Kings",
     "countryName": "India",
@@ -365,7 +365,7 @@
   },
   {
     "playerName": "Sam Curran",
-    "image": "/players/sam-curran.svg",
+    "image": "/players/sam-curran.png",
     "role": "allrounder",
     "teamName": "Punjab Kings",
     "countryName": "England",
@@ -378,7 +378,7 @@
   },
   {
     "playerName": "Arshdeep Singh",
-    "image": "/players/arshdeep-singh.svg",
+    "image": "/players/arshdeep-singh.png",
     "role": "bowler",
     "teamName": "Punjab Kings",
     "countryName": "India",
