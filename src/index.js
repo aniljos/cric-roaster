@@ -64,6 +64,27 @@ app.get('/teams', (req, res) => {
   res.json({ teams });
 });
 
+// Returns all player entries
+app.get('/players/all', (req, res) => {
+  res.json({ players });
+});
+
+// Returns players grouped by team name
+app.get('/players/grouped', (req, res) => {
+  const groupedMap = players.reduce((acc, player) => {
+    acc[player.teamName] = acc[player.teamName] || [];
+    acc[player.teamName].push(player);
+    return acc;
+  }, {});
+
+  const groupedArray = Object.entries(groupedMap).map(([teamName, members]) => ({
+    teamName,
+    members
+  }));
+
+  res.json(groupedArray);
+});
+
 // Returns player basics for a given team
 app.get('/players', (req, res) => {
   const { teamName } = req.query;
