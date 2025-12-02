@@ -134,15 +134,15 @@ app.post('/players', async (req, res) => {
     'teamName',
     'countryName',
     'age',
-    'battingSyle',
+    'battingStyle',
     'uniquePlayerId',
     'runsScored',
     'centuriesScored',
     'wicketsTaken',
-    'image'
   ];
-
+  console.log('Received new player data:', req.body);
   const missing = requiredFields.filter((field) => req.body[field] === undefined);
+  console.log('Missing fields:', missing);
   if (missing.length) {
     return res.status(400).json({ message: `Missing required fields: ${missing.join(', ')}` });
   }
@@ -172,6 +172,9 @@ app.post('/players', async (req, res) => {
   }
 
   try {
+
+    let relativePath = "";
+    if(image){
     let base64Payload = image;
     let extension = '.png';
 
@@ -183,11 +186,14 @@ app.post('/players', async (req, res) => {
 
     const imageBuffer = Buffer.from(base64Payload, 'base64');
     const fileName = `${slugify(playerName)}${extension}`;
-    const relativePath = `/players/${fileName}`;
+     relativePath = `/players/${fileName}`;
     const absolutePath = path.join(playersDir, fileName);
 
     await fs.mkdir(playersDir, { recursive: true });
     await fs.writeFile(absolutePath, imageBuffer);
+  }
+ 
+   
 
     const newPlayer = {
       playerName,
@@ -205,7 +211,7 @@ app.post('/players', async (req, res) => {
 
     players.push(newPlayer);
     await fs.writeFile(playersDataPath, JSON.stringify(players, null, 2));
-
+    console.log('Added new player:', newPlayer);
     res.status(201).json(newPlayer);
   } catch (error) {
     console.error('Failed to add player', error);

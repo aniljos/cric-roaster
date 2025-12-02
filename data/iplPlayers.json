@@ -388,5 +388,17 @@
     "runsScored": 90,
     "centuriesScored": 0,
     "wicketsTaken": 76
+  },
+  {
+    "playerName": "Anil111",
+    "image": "",
+    "role": "batter",
+    "teamName": "Chennai Super Kings",
+    "countryName": "India",
+    "age": 20,
+    "uniquePlayerId": "8888",
+    "runsScored": 222,
+    "centuriesScored": 0,
+    "wicketsTaken": 0
   }
 ]
